@@ -1,4 +1,5 @@
 # devops-aula04.
 Vingadores
-Dragon Ball
-Pikachu
+Dragon Ball super
+Pikachu 
+Hantaro
