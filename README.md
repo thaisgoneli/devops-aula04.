@@ -1,4 +1,4 @@
 # devops-aula04.
-Vingadores
-Dragon Ball
-Pikachu
+Serie 1
+Serie 2
+Serie 3
